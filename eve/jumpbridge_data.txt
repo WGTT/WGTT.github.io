@@ -6,3 +6,6 @@ UEP0-A <-> MMUF-8
 PEM-LC <-> KR8-27
 LOI-L1 <-> LS-QLX
 VULA-I <-> BJD4-E
+R-ARKN <-> A1-AUH
+MS2-V8 <-> C-PEWN
+HT4K-M <-> G2-INZ
